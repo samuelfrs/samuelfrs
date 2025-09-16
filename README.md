@@ -1,6 +1,6 @@
 ### Salve 👋
 
-- 🔭 Tentando ser Desenvolvedor Fullstack
+- 🔭 Se aprimorando na área de Telecomunicações e TI
 - 📝 Estudando Engenharia de Telecomunicações
 - 📍  Fortaleza, CE
 
