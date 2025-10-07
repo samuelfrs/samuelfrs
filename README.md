@@ -1,6 +1,6 @@
-### Salve 👋
+### Olá 👋
 
-- 🔭 Se aprimorando na área de Telecomunicações e TI
+- 🔭 Buscando aprimorar na área de Telecomunicações, TI e desenvolvimento web
 - 📝 Estudando Engenharia de Telecomunicações
 - 📍  Fortaleza, CE
 
