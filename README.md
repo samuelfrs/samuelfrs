@@ -4,12 +4,6 @@
 - 📝 Estudando Engenharia de Telecomunicações
 - 📍  Fortaleza, CE
 
-<div>
-  <a href="https://github.com/samuelfrs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelfrs&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfrs&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="sml-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="sml-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
