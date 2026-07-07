@@ -68,15 +68,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelfrs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfrs&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais utilizadas" />
-</p>
-
----
-
 <p align="center">
   <i>"Construindo soluções web de alto desempenho e design minimalista."</i>
 </p>
